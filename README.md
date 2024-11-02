@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kshitij
+# Hi there! 👋 I'm Kshitij 
 
 I'm a passionate **second-year student** at **SRM Institute of Science and Technology**, currently honing my skills in **Data Structures and Algorithms (DSA)** while balancing my journey with **React development**. My love for **web development** stems from the ability to create dynamic and interactive experiences that truly stand out.
 
@@ -36,4 +36,5 @@ When I’m not busy debugging code or obsessing over the perfect animation timin
 Feel free to reach out if you'd like to collaborate or discuss tech, development, or anything else! 😊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KT2006&show_icons=true&theme=gruvbox)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
+<br>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
