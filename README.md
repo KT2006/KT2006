@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kshitij 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%2C+I'm+Kshitij+!;I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 I'm a passionate **second-year student** at **SRM Institute of Science and Technology**, currently honing my skills in **Data Structures and Algorithms (DSA)** while balancing my journey with **React development**. My love for **web development** stems from the ability to create dynamic and interactive experiences that truly stand out.
 
