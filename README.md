@@ -36,4 +36,4 @@ When I’m not busy debugging code or obsessing over the perfect animation timin
 Feel free to reach out if you'd like to collaborate or discuss tech, development, or anything else! 😊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KT2006&show_icons=true&theme=gruvbox)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
