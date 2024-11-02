@@ -13,7 +13,7 @@
   </a>
 </div>
 <br>
-I'm a passionate **second-year student** at **SRM Institute of Science and Technology**, currently honing my skills in **Data Structures and Algorithms (DSA)** while balancing my journey with **React development**. My love for **web development** stems from the ability to create dynamic and interactive experiences that truly stand out.
+I'm a passionate second-year student at SRM Institute of Science and Technology, currently honing my skills in Data Structures and Algorithms (DSA) while balancing my journey with React development. My love for **web development stems from the ability to create dynamic and interactive experiences that truly stand out.
 
 ## 🌟 About Me
 
