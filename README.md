@@ -1,5 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%2C+I'm+Kshitij+!;I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%2C+I'm+Kshitij+!;I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg) 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KT2006.visitor-badge&left_text=Hellow%20Visitors" />
 
+<div align="center"> 
+  <a href="mailto:kshitij.totawar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kshitij-totawar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://kitij.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+<br>
 I'm a passionate **second-year student** at **SRM Institute of Science and Technology**, currently honing my skills in **Data Structures and Algorithms (DSA)** while balancing my journey with **React development**. My love for **web development** stems from the ability to create dynamic and interactive experiences that truly stand out.
 
 ## 🌟 About Me
@@ -35,6 +48,22 @@ When I’m not busy debugging code or obsessing over the perfect animation timin
 
 Feel free to reach out if you'd like to collaborate or discuss tech, development, or anything else! 😊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KT2006&show_icons=true&theme=gruvbox)
 <br>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=KT2006&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KT2006&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+
