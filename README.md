@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+there+%2C+I'm+Kshitij+!;I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=F78A8A&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Kshitij+!;I'm+a+Full+Stack+Web+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KT2006.visitor-badge&left_text=Hellow%20Visitors" />
 
 <div align="center"> 
