@@ -1,17 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=F78A8A&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Kshitij+!;I'm+a+Full+Stack+Web+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KT2006.visitor-badge&left_text=Hellow%20Visitors" />
 
-<div align="center"> 
-  <a href="https://www.instagram.com/kshitijtotawar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kshitij-totawar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://kitij.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<h3 align="left"> &nbsp;&nbsp; Connect with Me 🤝🏻&nbsp;&nbsp;</h3>
+
+
+<p align="center"> 
+&nbsp; <a href="https://www.instagram.com/kshitijtotawar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/kshitij-totawar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:kshitij.totawar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 <br>
 I'm a passionate second-year student at SRM Institute of Science and Technology, currently honing my skills in Data Structures and Algorithms (DSA) while balancing my journey with React development. My love for **web development stems from the ability to create dynamic and interactive experiences that truly stand out.
 
