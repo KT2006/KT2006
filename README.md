@@ -49,11 +49,11 @@ Feel free to reach out if you'd like to collaborate or discuss tech, development
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none;">
+<!--     <td style="border: none;">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=KT2006&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
       </a>
-    </td>
+    </td> -->
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=KT2006&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
     </td>
