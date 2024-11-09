@@ -23,11 +23,12 @@ I'm a passionate second-year student at SRM Institute of Science and Technology,
 ## 🔨 Skills
 
 - **Languages**:  
-  ![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C%2B%2B-green) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)   
 - **Frontend Technologies**:  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6) ![React](https://img.shields.io/badge/-React-61DAFB)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 - **Development Tools**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032) ![GitHub](https://img.shields.io/badge/-GitHub-181717)  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
 - **Other Skills**:  
   - 🎨 Passion for crafting **creative animations** that enhance user engagement  
   - 🛠️ Working on small but meaningful projects to improve my skills.
