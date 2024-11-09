@@ -45,20 +45,22 @@ When I’m not busy debugging code or obsessing over the perfect animation timin
 
 Feel free to reach out if you'd like to collaborate or discuss tech, development, or anything else! 😊
 
-<br>
+<br>  
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KT2006&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=KT2006&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-<!--     <td style="border: none;">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=KT2006&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-      </a>
-    </td> -->
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=KT2006&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
-    </td>
-  </tr>
-</table>
+  
+  
 
 
 <br>
