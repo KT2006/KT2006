@@ -10,7 +10,7 @@
 &nbsp; <a href="mailto:kshitij.totawar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 <br>
-I'm a passionate second-year student at SRM Institute of Science and Technology, currently honing my skills in Data Structures and Algorithms (DSA) while balancing my journey with React development. My love for web development stems from the ability to create dynamic and interactive experiences that truly stand out.
+I'm a dedicated second-year computer science student. I'm currently learning DSA to strengthen my programming foundation and React to create user-friendly web interfaces. My goal is to become a skilled software developer who can build innovative and impactful applications.
 
 ## 🌟 About Me
 
