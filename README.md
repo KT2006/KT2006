@@ -46,9 +46,7 @@ When I’m not busy debugging code or obsessing over the perfect animation timin
 
 Feel free to reach out if you'd like to collaborate or discuss tech, development, or anything else! 😊
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+## 📊 GitHub Stats:
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
