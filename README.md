@@ -10,15 +10,13 @@
 &nbsp; <a href="mailto:kshitij.totawar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 <br>
-I'm a dedicated second-year computer science student. I'm currently learning DSA to strengthen my programming foundation and React to create user-friendly web interfaces. My goal is to become a skilled software developer who can build innovative and impactful applications.
+# Hey there! 👋  
 
-## 🌟 About Me
+I'm a **second-year Computer Science student** passionate about full-stack development and problem-solving. Currently on a mission to:  
 
-- 🎓 I'm currently pursuing my studies in Computer Science.
-- 💻 I enjoy working on front-end development, particularly in **HTML**, **CSS**, and **JavaScript**.
-- 🖼️ I'm a big fan of **animations** because I believe they can make a website more engaging and expressive. I often focus on creating smooth and appealing animations that enhance the user experience.
-- 🛠️ I'm actively learning **React** to build more sophisticated and scalable applications.
-- 📚 I love problem-solving and am diving deeper into **Data Structures and Algorithms** to sharpen my logic and analytical thinking.
+🚀 Learn and build **full-stack applications**  
+🧠 Level up my **DSA** skills to crack complex problems  
+🤝 Looking for a team to build something useful and impactful  
 
 ## 🔨 Skills
 
@@ -32,17 +30,6 @@ I'm a dedicated second-year computer science student. I'm currently learning DSA
 - **Other Skills**:  
   - 🎨 Passion for crafting **creative animations** that enhance user engagement  
   - 🛠️ Working on small but meaningful projects to improve my skills.
-
-
-## 🌱 Current Focus
-
-- Learning **React** to build dynamic, component-based web applications.
-- Enhancing my problem-solving skills by diving deeper into **DSA**.
-- Building more **projects** to strengthen my development portfolio.
-
-## ⚡ Fun Fact
-
-When I’m not busy debugging code or obsessing over the perfect animation timing, you’ll probably find me with my nose in a book. I’m also on a mission to figure out how to get my plants to survive longer than my browser tabs—so far, the tabs are winning!
 
 Feel free to reach out if you'd like to collaborate or discuss tech, development, or anything else! 😊
 
