@@ -47,13 +47,8 @@ Feel free to reach out if you'd like to collaborate or discuss tech, development
   </table>
 </div>
 
-  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KT2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--  ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KT2006&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
-
-  
-
-
-<br>
 
 
