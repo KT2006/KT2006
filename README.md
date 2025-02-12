@@ -49,8 +49,7 @@ Feel free to reach out if you'd like to collaborate or discuss tech, development
 
 <!--  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KT2006&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-<h2 align="center">My Leetcode 👨‍💻 <
-                                     h2>  
+<h2 align="center">My Leetcode 👨‍💻 </h2>  
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/KRRISH21?theme=dark&font=Nunito&ext=heatmap" />  
