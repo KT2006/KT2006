@@ -12,7 +12,7 @@
 <br>
 # Hey there! 👋  
 
-I'm a **second-year Computer Science student** passionate about full-stack development and problem-solving. Currently on a mission to:  
+I'm a **Final-year Computer Science student** passionate about full-stack development and problem-solving. Currently on a mission to:  
 
 🚀 Learn and build **full-stack applications**  
 🧠 Level up my **DSA** skills to crack complex problems  
@@ -57,7 +57,7 @@ Feel free to reach out if you'd like to collaborate or discuss tech, development
 <h2 align="center">My Leetcode 👨‍💻 </h2>  
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/KRRISH21?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kitij?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 <br/><br/>
